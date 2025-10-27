@@ -37,7 +37,7 @@
 ## 📸 My Design/Code Preview
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b539d4f9-936f-484e-88ea-e42cd04b7fc9" />
+  <img src="https://github.com/user-attachments/assets/bbdbdf26-4438-4bb0-9c9b-84adc92f5c0e" />
 </p>
 
 ---
