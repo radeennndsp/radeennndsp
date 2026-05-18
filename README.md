@@ -48,7 +48,7 @@
 If you like what I do and want to support my learning journey, you can buy me a coffee via PayPal 💙
 
 <p align="center">
-  <a href="https://www.paypal.me/radeennndsp@gmail.com" target="_blank">
+  <a href="https://www.paypal.me/radeennndsp" target="_blank">
     <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?logo=paypal&style=for-the-badge" alt="PayPal Donate" />
   </a>
 </p>
