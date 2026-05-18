@@ -59,4 +59,3 @@ If you like what I do and want to support my learning journey, you can buy me a 
 <img src="https://raw.githubusercontent.com/radeennndsp/radeennndsp/output/snake.svg" alt="Snake animation" />
 
 ###
-<img width="1400" height="16220" alt="#TruthlensAI" src="https://github.com/user-attachments/assets/0f326907-dca0-4ecb-b954-1724c455fbb3" />
