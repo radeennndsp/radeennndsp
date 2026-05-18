@@ -113,7 +113,7 @@ If you like what I do and want to support my learning journey, you can support m
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/radeennndsp/radeennndsp/output/snake-dark.svg"
+    src="https://raw.githubusercontent.com/radeennndsp/radeennndsp/output/github-contribution-grid-snake-dark.svg"
     alt="Snake animation"
   />
 </p>
